@@ -76,10 +76,6 @@ The primary goal is to investigate the impact of transitioning from aluminum to 
   <img width="446" alt="image" src="https://github.com/oliwiakruczyk/Finite-Element-analysis-of-brake-pedals/assets/150608343/6e28817b-9cc9-4f14-820f-d7bfd59c0ffb">
 </p>
 
-#### Technical Documentation:
-<p align="center">
-  <img width="592" alt="image" src="https://github.com/oliwiakruczyk/Finite-Element-analysis-of-brake-pedals/assets/150608343/4f7ee0c6-7d29-4ae9-b39d-8284d8a9a901">
-</p>
 
 ### Carbon Composite Brake Pedal
 
@@ -88,19 +84,6 @@ The primary goal is to investigate the impact of transitioning from aluminum to 
   <img width="441" alt="image" src="https://github.com/oliwiakruczyk/Finite-Element-analysis-of-brake-pedals/assets/150608343/7eb14283-49f8-4bb7-a459-b2753fb453f6">
 </p>
 
-#### Technical Documentation:
-<p align="center">
-  <img width="534" alt="image" src="https://github.com/oliwiakruczyk/Finite-Element-analysis-of-brake-pedals/assets/150608343/b0ad8465-ca37-4267-8be8-af8384485aeb">
-</p>
-
-## Description of the Methodology
-
-The methodology includes using beam models for FEA, focusing on geometric simplifications to enhance analysis efficiency. The primary objective was to retain critical structural characteristics while optimizing for computational resources.
-
-<p align="center">
-  <img width="300" alt="image" src="https://github.com/oliwiakruczyk/Finite-Element-analysis-of-brake-pedals/assets/150608343/99d208c7-d1b0-469d-8cec-d157b55a420d">
-  <img width="300" alt="image" src="https://github.com/oliwiakruczyk/Finite-Element-analysis-of-brake-pedals/assets/150608343/da0f4509-e09e-4b3d-9483-592c6c26630b">
-</p>
 
 ## Results of FEA Simulations
 
